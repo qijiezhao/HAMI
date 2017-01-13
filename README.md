@@ -10,9 +10,11 @@
 
 - Object Detection
 - Semantic Segmentation
-- Generative adversarial Network
+- Generative Adversarial Network
 - Multimedia Event Detection
-- Zero shot learning
+- Zero-Shot Learning
+- Domain Adaptation / Transfer Learning
+- Big-Data Competition
 
 
-Welcome to contribute it together!
+**Welcome to contribute it together!**
