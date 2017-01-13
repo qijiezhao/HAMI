@@ -6,7 +6,7 @@
 
 ----------
 
-**directory**
+**Directory**
 
 - Object Detection
 - Semantic Segmentation
