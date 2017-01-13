@@ -15,6 +15,7 @@
 - Zero-Shot Learning
 - Domain Adaptation / Transfer Learning
 - Big-Data Competition
+- Fine-grained Classification
 
 
 **Welcome to contribute it together!**
