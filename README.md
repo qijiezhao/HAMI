@@ -2,7 +2,7 @@
 
 
 
-**Hot-Spot Area of Machine Intelligence**, which is a generical summary of the meaningful travel in the AI research world.
+**Hot-Spot Area of Machine Intelligence**, which is a synthetical introduction of some hot AI researchs' topics.
 
 ----------
 
@@ -15,7 +15,7 @@
 - Zero-Shot Learning
 - Domain Adaptation / Transfer Learning
 - Big-Data Competition
-- Fine-grained Classification
+- Fine-Grained Classification
 
 
 **Welcome to contribute it together!**
